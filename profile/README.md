@@ -24,7 +24,13 @@ We have expertise in a range of bioinformatics analyses, including:
     - Differential gene expression
     - Differential isoform / isoform switching 
     - Functional enrichment analysis (GO terms, KEGG pathways)
+    - [RNA-Seq Demystified Workshop](https://medresearch.umich.edu/office-research/about-office-research/biomedical-research-core-facilities/bioinformatics-core/bioinformatics-workshops-training#rna-seq-demystified)
     - [Sample RNA-Seq analysis report](https://umich-brcf-bioinf.github.io/Watermelon/doc/SampleReport.html)
+    - Tools:
+    
+        - [nf-core/rnaseq analysis pipeline](https://nf-co.re/rnaseq)
+        - [DESeq2](https://bioconductor.org/packages/devel/bioc/vignettes/DESeq2/inst/doc/DESeq2.html)
+        - [iPathwayGuide](https://advaitabio.com/bioinformatics/ipathwayguide/), [WebGestalt](https://www.webgestalt.org/), and  [GSEA](https://www.gsea-msigdb.org/gsea/index.jsp)
 
 - **Single-cell/single-nuclei analysis**
  
@@ -33,6 +39,10 @@ We have expertise in a range of bioinformatics analyses, including:
     - scATAC-Seq
     - Trajectory analysis
     - Single-cell analysis of long-reads
+    - [Intro to Single-Cell Analysis](https://medresearch.umich.edu/office-research/about-office-research/biomedical-research-core-facilities/bioinformatics-core/bioinformatics-workshops-training#intro-to-single-cell-analysis)
+    - Tools:
+
+        - [Seurat](https://satijalab.org/seurat/)
 
 - **Spatial sequencing analysis**
 
