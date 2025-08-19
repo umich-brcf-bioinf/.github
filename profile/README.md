@@ -20,7 +20,7 @@ We have expertise in a range of bioinformatics analyses, including:
 
 - **Bulk RNA-Seq gene expression**
 
-    - Poly-A, total, miRNA, long-read
+    - Poly(A) selection, total RNA, miRNA, Ribo-Seq, long-read gene expression
     - Differential gene expression
     - Differential isoform / isoform switching 
     - Functional enrichment analysis (GO terms, KEGG pathways)
