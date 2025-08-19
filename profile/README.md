@@ -24,13 +24,9 @@ We have expertise in a range of bioinformatics analyses, including:
     - Differential gene expression
     - Differential isoform / isoform switching 
     - Functional enrichment analysis (GO terms, KEGG pathways)
-    - [RNA-Seq Demystified Workshop](https://medresearch.umich.edu/office-research/about-office-research/biomedical-research-core-facilities/bioinformatics-core/bioinformatics-workshops-training#rna-seq-demystified)
+    - [Workshop: RNA-Seq Demystified](https://medresearch.umich.edu/office-research/about-office-research/biomedical-research-core-facilities/bioinformatics-core/bioinformatics-workshops-training#rna-seq-demystified)
     - [Sample RNA-Seq analysis report](https://umich-brcf-bioinf.github.io/Watermelon/doc/SampleReport.html)
-    - Tools:
-    
-        - [nf-core/rnaseq analysis pipeline](https://nf-co.re/rnaseq)
-        - [DESeq2](https://bioconductor.org/packages/devel/bioc/vignettes/DESeq2/inst/doc/DESeq2.html)
-        - [iPathwayGuide](https://advaitabio.com/bioinformatics/ipathwayguide/), [WebGestalt](https://www.webgestalt.org/), and  [GSEA](https://www.gsea-msigdb.org/gsea/index.jsp)
+    - Tools: [nf-core/rnaseq analysis pipeline](https://nf-co.re/rnaseq) | [DESeq2](https://bioconductor.org/packages/devel/bioc/vignettes/DESeq2/inst/doc/DESeq2.html) | [iPathwayGuide](https://advaitabio.com/bioinformatics/ipathwayguide/) | [WebGestalt](https://www.webgestalt.org/) | [GSEA](https://www.gsea-msigdb.org/gsea/index.jsp)
 
 - **Single-cell/single-nuclei analysis**
  
@@ -39,20 +35,20 @@ We have expertise in a range of bioinformatics analyses, including:
     - scATAC-Seq
     - Trajectory analysis
     - Single-cell analysis of long-reads
-    - [Intro to Single-Cell Analysis](https://medresearch.umich.edu/office-research/about-office-research/biomedical-research-core-facilities/bioinformatics-core/bioinformatics-workshops-training#intro-to-single-cell-analysis)
-    - Tools:
-
-        - [Seurat](https://satijalab.org/seurat/)
+    - [Workshop: Intro to Single-Cell Analysis](https://medresearch.umich.edu/office-research/about-office-research/biomedical-research-core-facilities/bioinformatics-core/bioinformatics-workshops-training#intro-to-single-cell-analysis)
+    - Tools: [Cell Ranger](https://www.10xgenomics.com/support/software/cell-ranger/latest)] | [Seurat](https://satijalab.org/seurat/) | [scCatch](https://github.com/ZJUFanLab/scCATCH)
 
 - **Spatial sequencing analysis**
 
     - Visium, Xenium, GeoMX DSP
+    - Tools: [Space Ranger](https://www.10xgenomics.com/support/software/space-ranger/latest) | [Seurat](https://satijalab.org/seurat/) | [Xenium Explorer](https://www.10xgenomics.com/support/software/xenium-explorer/latest) | [GeoMX tools](https://www.bioconductor.org/packages/release/workflows/vignettes/GeoMxWorkflows/inst/doc/GeomxTools_RNA-NGS_Analysis.html)
 
 - **Variant identification / assembly**
 
     - Variant identification / structural variation from WGS, exome, panel, long-reads
     - Copy Number Analysis from WGS
     - Genome assembly from short reads, long-reads, hybrid
+    - Tools: [nf-core/sarek](https://nf-co.re/sarek) | [VEP](https://www.ensembl.org/info/docs/tools/vep/index.html) | [SnpEff](https://pcingola.github.io/SnpEff) | [SPAdes](https://github.com/ablab/spades) | [Velvet](https://github.com/dzerbino/velvet) | [Flye](https://github.com/mikolmogorov/Flye) 
 
 - **Epigenomic analysis**
 
@@ -61,11 +57,13 @@ We have expertise in a range of bioinformatics analyses, including:
     - Histone profiling from ChIP-Seq / Cut & Run / Cut & Tag
     - Transcription factor binding from ChIP-Seq
     - EPIC-Array
+    - Tools: [nf-core/methylseq](https://nf-co.re/methylseq) | [nf-core/atacseq](https://nf-co.re/atacseq) | [nf-core/chipseq](https://nf-co.re/chipseq) | [nf-core/cutandrun](https://nf-co.re/cutandrun)
 
 - **Microbiome analysis**
 
     - 16S amplicon
     - metagenomics / metatranscriptomics
+    - Tools: [mothur](https://mothur.org/) | [SqueezeMeta](https://github.com/jtamames/SqueezeMeta)
 
 - **Proteome expression**
 
