@@ -20,6 +20,12 @@ We have expertise in a range of bioinformatics analyses, including:
 
 - **Bulk RNA-Seq gene expression**
 
+    - Poly-A, total, miRNA, long-read
+    - Differential gene expression
+    - Differential isoform / isoform switching 
+    - Functional enrichment analysis (GO terms, KEGG pathways)
+    - [Sample RNA-Seq analysis report](https://umich-brcf-bioinf.github.io/Watermelon/doc/SampleReport.html)
+
 - **Single-cell/single-nuclei analysis**
  
     - 3' or 5' scRNA-Seq gene expression
@@ -28,7 +34,9 @@ We have expertise in a range of bioinformatics analyses, including:
     - Trajectory analysis
     - Single-cell analysis of long-reads
 
-- **Spatial sequencing analysis** (Visium, Xenium, GeoMX DSP)
+- **Spatial sequencing analysis**
+
+    - Visium, Xenium, GeoMX DSP
 
 - **Variant identification / assembly**
 
@@ -44,7 +52,13 @@ We have expertise in a range of bioinformatics analyses, including:
     - Transcription factor binding from ChIP-Seq
     - EPIC-Array
 
-- **Microbiome analysis** (16S amplicon or metagenomics / metatranscriptomics)
+- **Microbiome analysis**
 
-- **Proteome expression** (LCMS or OLink)
+    - 16S amplicon
+    - metagenomics / metatranscriptomics
+
+- **Proteome expression**
+
+    - Liquid Chromatography-Mass Spectrometry
+    - Antibody/Aptamer (ELISA, OLink, Somalogic)
 
