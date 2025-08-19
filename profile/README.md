@@ -1,5 +1,5 @@
-![DNA](res_brcf_bioinformatics_dna_stock_blue.jpeg)
 # University of Michigan Bioinformatics Core
+![DNA](res_brcf_bioinformatics_dna_stock_blue.jpeg)
 
 We help researchers identify and interpret patterns in RNA, DNA, and proteins by placing high-throuhgput data into a biologically meaningful context. This includes:
 
@@ -17,64 +17,101 @@ See [our website](https://michmed.org/GqGzZ) for more information about the core
 ## Bioinformatics analyses we support
 
 <details>
-<summary>**Bulk RNA-Seq gene expression**</summary>
-
+<summary><strong>Bulk RNA-Seq gene expression</strong></summary>
+ 
 - Poly(A) selection, total RNA, miRNA, Ribo-Seq, long-read gene expression
 - Differential gene expression
 - Differential isoform / isoform switching 
 - Functional enrichment analysis (GO terms, KEGG pathways)
-- [Workshop: RNA-Seq Demystified](https://medresearch.umich.edu/office-research/about-office-research/biomedical-research-core-facilities/bioinformatics-core/bioinformatics-workshops-training#rna-seq-demystified)
 - [Sample RNA-Seq analysis report](https://umich-brcf-bioinf.github.io/Watermelon/doc/SampleReport.html)
-- Tools: [nf-core/rnaseq analysis pipeline](https://nf-co.re/rnaseq) | [DESeq2](https://bioconductor.org/packages/devel/bioc/vignettes/DESeq2/inst/doc/DESeq2.html) | [iPathwayGuide](https://advaitabio.com/bioinformatics/ipathwayguide/) | [WebGestalt](https://www.webgestalt.org/) | [GSEA](https://www.gsea-msigdb.org/gsea/index.jsp)
+- Tools & Resources:
+
+   - [Workshop: RNA-Seq Demystified](https://medresearch.umich.edu/office-research/about-office-research/biomedical-research-core-facilities/bioinformatics-core/bioinformatics-workshops-training#rna-seq-demystified)
+   - [nf-core/rnaseq analysis pipeline](https://nf-co.re/rnaseq) | [DESeq2](https://bioconductor.org/packages/devel/bioc/vignettes/DESeq2/inst/doc/DESeq2.html) | [iPathwayGuide](https://advaitabio.com/bioinformatics/ipathwayguide/) | [WebGestalt](https://www.webgestalt.org/) | [GSEA](https://www.gsea-msigdb.org/gsea/index.jsp)
+<hr/>
 </details>
+
+<br/>
+
+<details>
+<summary><strong>Single-cell/single-nuclei analysis</strong></summary>
+ 
+- 3' or 5' scRNA-Seq gene expression
+- V(D)J immune profiling
+- scATAC-Seq
+- Trajectory analysis
+- Single-cell analysis of long-reads
+- Tools & Resources:
+  
+  - [Workshop: Intro to Single-Cell Analysis](https://medresearch.umich.edu/office-research/about-office-research/biomedical-research-core-facilities/bioinformatics-core/bioinformatics-workshops-training#intro-to-single-cell-analysis)
+  - [Cell Ranger](https://www.10xgenomics.com/support/software/cell-ranger/latest)] | [Seurat](https://satijalab.org/seurat/) | [scCatch](https://github.com/ZJUFanLab/scCATCH)
+<hr/>
+</details>
+
+<br/>
+
+<details>
+<summary><strong>Spatial sequencing analysis</strong></summary>
+ 
+- Visium, Xenium, GeoMX DSP
+- Tools & Resources:
+
+  - [Space Ranger](https://www.10xgenomics.com/support/software/space-ranger/latest) | [Seurat](https://satijalab.org/seurat/) | [Xenium Explorer](https://www.10xgenomics.com/support/software/xenium-explorer/latest) | [GeoMX tools](https://www.bioconductor.org/packages/release/workflows/vignettes/GeoMxWorkflows/inst/doc/GeomxTools_RNA-NGS_Analysis.html)
+<hr/>
+</details>
+
+<br/>
+
+<details>
+<summary><strong>Variant identification / assembly</strong></summary>
+ 
+- Variant identification / structural variation from WGS, exome, panel, long-reads
+- Copy Number Analysis from WGS
+- Genome assembly from short reads, long-reads, hybrid
+- Tools & Resources:
+
+  - [nf-core/sarek](https://nf-co.re/sarek) | [VEP](https://www.ensembl.org/info/docs/tools/vep/index.html) | [SnpEff](https://pcingola.github.io/SnpEff) | [SPAdes](https://github.com/ablab/spades) | [Velvet](https://github.com/dzerbino/velvet) | [Flye](https://github.com/mikolmogorov/Flye) 
+<hr/>
+</details>
+
+<br/>
+
+<details>
+<summary><strong>Epigenomic analysis</strong></summary>
+ 
+- DNA Methylation from WGBS/oxBS/EM-Seq, ERRBS/oxERRBS, long-reads
+- Chromatin accessibility from bulk ATAC-Seq
+- Histone profiling from ChIP-Seq / Cut & Run / Cut & Tag
+- Transcription factor binding from ChIP-Seq
+- EPIC-Array
+
+- Tools & Resources:
+
+  - [nf-core/methylseq](https://nf-co.re/methylseq) | [nf-core/atacseq](https://nf-co.re/atacseq) | [nf-core/chipseq](https://nf-co.re/chipseq) | [nf-core/cutandrun](https://nf-co.re/cutandrun)
 
 <hr/>
+</details>
+
+<br/>
 
 <details>
-<summary>Single-cell/single-nuclei analysis</summary>
+<summary><strong>Microbiome analysis</strong></summary>
  
-    - 3' or 5' scRNA-Seq gene expression
-    - V(D)J immune profiling
-    - scATAC-Seq
-    - Trajectory analysis
-    - Single-cell analysis of long-reads
-    - [Workshop: Intro to Single-Cell Analysis](https://medresearch.umich.edu/office-research/about-office-research/biomedical-research-core-facilities/bioinformatics-core/bioinformatics-workshops-training#intro-to-single-cell-analysis)
-    - Tools: [Cell Ranger](https://www.10xgenomics.com/support/software/cell-ranger/latest)] | [Seurat](https://satijalab.org/seurat/) | [scCatch](https://github.com/ZJUFanLab/scCATCH)
-</details>
-<details>
-<summary>Spatial sequencing analysis</summary>
+- 16S amplicon
+- metagenomics / metatranscriptomics
+- Tools & Resources:
 
-    - Visium, Xenium, GeoMX DSP
-    - Tools: [Space Ranger](https://www.10xgenomics.com/support/software/space-ranger/latest) | [Seurat](https://satijalab.org/seurat/) | [Xenium Explorer](https://www.10xgenomics.com/support/software/xenium-explorer/latest) | [GeoMX tools](https://www.bioconductor.org/packages/release/workflows/vignettes/GeoMxWorkflows/inst/doc/GeomxTools_RNA-NGS_Analysis.html)
-</details>
-<details>
-<summary>Variant identification / assembly</summary>
+  - [mothur](https://mothur.org/) | [SqueezeMeta](https://github.com/jtamames/SqueezeMeta)
 
-    - Variant identification / structural variation from WGS, exome, panel, long-reads
-    - Copy Number Analysis from WGS
-    - Genome assembly from short reads, long-reads, hybrid
-    - Tools: [nf-core/sarek](https://nf-co.re/sarek) | [VEP](https://www.ensembl.org/info/docs/tools/vep/index.html) | [SnpEff](https://pcingola.github.io/SnpEff) | [SPAdes](https://github.com/ablab/spades) | [Velvet](https://github.com/dzerbino/velvet) | [Flye](https://github.com/mikolmogorov/Flye) 
+<hr/>
 </details>
-<details>
-<summary>Epigenomic analysis</summary>
 
-    - DNA Methylation from WGBS/oxBS/EM-Seq, ERRBS/oxERRBS, long-reads
-    - Chromatin accessibility from bulk ATAC-Seq
-    - Histone profiling from ChIP-Seq / Cut & Run / Cut & Tag
-    - Transcription factor binding from ChIP-Seq
-    - EPIC-Array
-    - Tools: [nf-core/methylseq](https://nf-co.re/methylseq) | [nf-core/atacseq](https://nf-co.re/atacseq) | [nf-core/chipseq](https://nf-co.re/chipseq) | [nf-core/cutandrun](https://nf-co.re/cutandrun)
-</details>
-<details>
-<summary>Microbiome analysis</summary>
+<br/>
 
-    - 16S amplicon
-    - metagenomics / metatranscriptomics
-    - Tools: [mothur](https://mothur.org/) | [SqueezeMeta](https://github.com/jtamames/SqueezeMeta)
-</details>
 <details>
-<summary>Proteome expression</summary>
-
-    - Liquid Chromatography-Mass Spectrometry
-    - Antibody/Aptamer (ELISA, OLink, Somalogic)
+<summary><strong>Proteome expression</strong></summary>
+ 
+- Liquid Chromatography-Mass Spectrometry
+- Antibody/Aptamer (ELISA, OLink, Somalogic)
+<hr/>
 </details>
