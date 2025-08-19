@@ -53,7 +53,9 @@ See [our website](https://michmed.org/GqGzZ) for more information about the core
 <details>
 <summary><strong>Spatial sequencing analysis</strong></summary>
  
-- Visium, Xenium, GeoMX DSP
+- Visium / Visium HD
+- Xenium in-situ/ subcellular
+- GeoMX DSP
 - Tools & Resources:
 
   - [Space Ranger](https://www.10xgenomics.com/support/software/space-ranger/latest) | [Seurat](https://satijalab.org/seurat/) | [Xenium Explorer](https://www.10xgenomics.com/support/software/xenium-explorer/latest) | [GeoMX tools](https://www.bioconductor.org/packages/release/workflows/vignettes/GeoMxWorkflows/inst/doc/GeomxTools_RNA-NGS_Analysis.html)
