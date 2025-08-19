@@ -3,12 +3,12 @@
 
 We help researchers identify and interpret patterns in RNA, DNA, and proteins by placing high-throuhgput data into a biologically meaningful context. This includes:
 
-- Elaborating experimental design
-- Developing reproducible workflows
-- Analyzing next-generation sequencing data
-- Assisting in visualizing and interpreting results
-- Letters of support, grant proposal development, or manuscript revision
-- Hosting virtual, hands-on bioinformatics workshops (see [current workshop schedule and descriptions](https://michmed.org/XYQwq))
+- **Elaborating experimental design**
+- **Developing reproducible workflows**
+- **Analyzing next-generation sequencing data**
+- **Assisting in visualizing and interpreting results**
+- **Letters of support, grant proposal development, or manuscript revision**
+- **Hosting virtual, hands-on bioinformatics workshops** (see [current workshop schedule and descriptions](https://michmed.org/XYQwq))
 
 ## We would love to talk with you
 
@@ -18,9 +18,9 @@ See [our website](https://michmed.org/GqGzZ) for more information about the core
 
 We have expertise in a range of bioinformatics analyses, including:
 
-- Bulk RNA-Seq gene expression
+- **Bulk RNA-Seq gene expression**
 
-- Single-cell/single-nuclei analysis
+- **Single-cell/single-nuclei analysis**
  
     - 3' or 5' scRNA-Seq gene expression
     - V(D)J immune profiling
@@ -28,15 +28,15 @@ We have expertise in a range of bioinformatics analyses, including:
     - Trajectory analysis
     - Single-cell analysis of long-reads
 
-- Spatial sequencing analysis (Visium, Xenium, GeoMX DSP)
+- **Spatial sequencing analysis** (Visium, Xenium, GeoMX DSP)
 
-- Variant identification / assembly
+- **Variant identification / assembly**
 
     - Variant identification / structural variation from WGS, exome, panel, long-reads
     - Copy Number Analysis from WGS
     - Genome assembly from short reads, long-reads, hybrid
 
-- Epigenomic analysis
+- **Epigenomic analysis**
 
     - DNA Methylation from WGBS/oxBS/EM-Seq, ERRBS/oxERRBS, long-reads
     - Chromatin accessibility from bulk ATAC-Seq
@@ -44,7 +44,7 @@ We have expertise in a range of bioinformatics analyses, including:
     - Transcription factor binding from ChIP-Seq
     - EPIC-Array
 
-- Microbiome analysis (16S amplicon or metagenomics / metatranscriptomics)
+- **Microbiome analysis** (16S amplicon or metagenomics / metatranscriptomics)
 
-- Protein expression (LCMS or OLink)
+- **Proteome expression** (LCMS or OLink)
 
