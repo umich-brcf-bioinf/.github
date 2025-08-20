@@ -88,7 +88,7 @@ We help researchers identify and interpret patterns in RNA, DNA, and proteins by
 
 - Tools & Resources:
 
-  - [nf-core/methylseq](https://nf-co.re/methylseq) | [nf-core/atacseq](https://nf-co.re/atacseq) | [nf-core/chipseq](https://nf-co.re/chipseq) | [nf-core/cutandrun](https://nf-co.re/cutandrun)
+  - [nf-core/methylseq](https://nf-co.re/methylseq) | [nf-core/atacseq](https://nf-co.re/atacseq) | [nf-core/chipseq](https://nf-co.re/chipseq) | [nf-core/cutandrun](https://nf-co.re/cutandrun) | [annotatr](https://bioconductor.org/packages/devel/bioc/vignettes/annotatr/inst/doc/annotatr-vignette.html) | [methylSig](https://www.bioconductor.org/packages/release/bioc/html/methylSig.html)
 
 <hr/>
 </details>
