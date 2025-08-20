@@ -86,10 +86,13 @@ Note:
 - Histone profiling from ChIP-Seq / Cut & Run / Cut & Tag
 - Transcription factor binding from ChIP-Seq
 - EPIC-Array
+- Chromatin conformation from Hi-C, 3C, ChIA-PET
+- biomodal evoC
 
 - Tools & Resources:
 
-  - [nf-core/methylseq](https://nf-co.re/methylseq) | [nf-core/atacseq](https://nf-co.re/atacseq) | [nf-core/chipseq](https://nf-co.re/chipseq) | [nf-core/cutandrun](https://nf-co.re/cutandrun) | [annotatr](https://bioconductor.org/packages/devel/bioc/vignettes/annotatr/inst/doc/annotatr-vignette.html) | [methylSig](https://www.bioconductor.org/packages/release/bioc/html/methylSig.html)
+  - [nf-core/methylseq](https://nf-co.re/methylseq) | [nf-core/atacseq](https://nf-co.re/atacseq) | [nf-core/chipseq](https://nf-co.re/chipseq) | [nf-core/cutandrun](https://nf-co.re/cutandrun) | [HiCUP](https://www.bioinformatics.babraham.ac.uk/projects/hicup/) | [Juicer](https://github.com/theaidenlab/juicer) | [HiC-Pro](https://github.com/nservant/HiC-Pro
+) | [Biomodal Duet](https://biomodal.com/technology/duet-software/) | [annotatr](https://bioconductor.org/packages/devel/bioc/vignettes/annotatr/inst/doc/annotatr-vignette.html) | [methylSig](https://www.bioconductor.org/packages/release/bioc/html/methylSig.html)
 <hr/>
 </details>
 
@@ -101,7 +104,7 @@ Note:
 - Copy Number Analysis from WGS
 - Variant impact annotation
 - Genome assembly from short reads, long-reads, hybrid. 
-- Transcription assembly
+- Transcriptome assembly
 - Tools & Resources:
 
   - [nf-core/sarek](https://nf-co.re/sarek) | [VEP](https://www.ensembl.org/info/docs/tools/vep/index.html) | [SnpEff](https://pcingola.github.io/SnpEff) | [SPAdes](https://github.com/ablab/spades) | [Velvet](https://github.com/dzerbino/velvet) | [Flye](https://github.com/mikolmogorov/Flye) 
