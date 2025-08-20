@@ -1,7 +1,7 @@
 # University of Michigan Bioinformatics Core
 ![DNA](res_brcf_bioinformatics_dna_stock_blue.jpeg)
 
-We help researchers identify and interpret patterns in RNA, DNA, and proteins by placing high-throuhgput data into a biologically meaningful context. This includes:
+We help researchers identify and interpret patterns in RNA, DNA, and proteins by placing high-throughput data into a biologically meaningful context. This includes:
 
 - **Elaborating experimental design**
 - **Developing reproducible workflows**
