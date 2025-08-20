@@ -21,7 +21,7 @@ We help researchers identify and interpret patterns in RNA, DNA, and proteins by
 ## Bioinformatics analyses we support
 
 
-<details name='expand-bulk-rna-seq-analysis'>
+<details id='expand-bulk-rna-seq-analysis'>
 <summary>
 
 ### Bulk RNA-Seq gene expression
