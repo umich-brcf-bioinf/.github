@@ -25,7 +25,6 @@ We help researchers identify and interpret patterns in RNA, DNA, and proteins by
 <summary>
 
 ### Bulk RNA-Seq gene expression
-
 </summary>
 
 - Poly(A) selection, total RNA, miRNA, Ribo-Seq, long-read gene expression
@@ -40,14 +39,10 @@ We help researchers identify and interpret patterns in RNA, DNA, and proteins by
    - [nf-core/rnaseq analysis pipeline](https://nf-co.re/rnaseq) | [DESeq2](https://bioconductor.org/packages/devel/bioc/vignettes/DESeq2/inst/doc/DESeq2.html) | [iPathwayGuide](https://advaitabio.com/bioinformatics/ipathwayguide/) | [WebGestalt](https://www.webgestalt.org/) | [GSEA](https://www.gsea-msigdb.org/gsea/index.jsp)
 <hr/>
 </details>
-
-<br/>
-
 <details id='expand-sc-analysis'>
 <summary>
 
 ### Single-cell/single-nuclei analysis
-
 </summary>
  
 - scRNA-Seq/ snRNA-Seq gene expression: 3', 5', Flex
@@ -64,13 +59,10 @@ We help researchers identify and interpret patterns in RNA, DNA, and proteins by
 <hr/>
 </details>
 
-<br/>
-
 <details id='expand-spatial-analysis>
 <summary>
    
 ### Spatial sequencing analysis
-
 </summary>
  
 - Visium / Visium HD
@@ -82,13 +74,10 @@ We help researchers identify and interpret patterns in RNA, DNA, and proteins by
 <hr/>
 </details>
 
-<br/>
-
 <details id='expand-epigenomic-analysis'>
 <summary>
    
 ### Epigenomic analysis
-
 </summary>
  
 - DNA Methylation from WGBS/oxBS/EM-Seq, ERRBS/oxERRBS, long-reads
@@ -104,13 +93,10 @@ We help researchers identify and interpret patterns in RNA, DNA, and proteins by
 <hr/>
 </details>
 
-<br/>
-
 <details id='expand-variant-identification-assembly'>
 <summary>
 
 ### Variant identification / assembly
-
 </summary>
  
 - Variant identification / structural variation from WGS, exome, panel, long-reads
@@ -125,14 +111,10 @@ We help researchers identify and interpret patterns in RNA, DNA, and proteins by
 <hr/>
 </details>
 
-<br/>
-
-
 <details id='expand-microbiome-analysis'>
 <summary>
 
 ### Microbiome analysis
-
 </summary>
  
 - 16S amplicon
@@ -145,13 +127,10 @@ We help researchers identify and interpret patterns in RNA, DNA, and proteins by
 <hr/>
 </details>
 
-<br/>
-
 <details id='expand-proteome-expression-analysis'>
 <summary>
    
 ### Proteome expression analysis
-
 </summary>
  
 - Liquid Chromatography-Mass Spectrometry
