@@ -93,7 +93,7 @@ Note:
 <hr/>
 </details>
 
-<details id='expand-variant-identification--assembly'>
+<details id='expand-variant-identification-assembly'>
 <summary><a href='#user-content-expand-variant-identification-assembly'>Variant identification / assembly</a></summary>
  
 - Variant identification / structural variation from WGS, exome, panel, long-reads
