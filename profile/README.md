@@ -20,8 +20,13 @@ We help researchers identify and interpret patterns in RNA, DNA, and proteins by
 
 ## Bioinformatics analyses we support
 
+
 <details>
-<summary><strong>Bulk RNA-Seq gene expression</strong></summary>
+<summary>
+
+### Bulk RNA-Seq gene expression
+
+</summary>
  
 - Poly(A) selection, total RNA, miRNA, Ribo-Seq, long-read gene expression
 - Differential gene expression
