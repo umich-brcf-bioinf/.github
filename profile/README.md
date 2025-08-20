@@ -20,6 +20,19 @@ We help researchers identify and interpret patterns in RNA, DNA, and proteins by
 
 ## Bioinformatics analyses we support
 
+<!-- 
+Note:
+- The <details> id attribute below provides a bookmark to expand the section from a URL. 
+- Github will prefix this attribute with "user-content-" to avoid potential collisions 
+  with Markdown generated HTML.
+- The <summary> line is linked to the preceding details@id (with the added prefix) which 
+  makes it easy link to the expanded section.
+- Making the <summaries> links instead of headings also improves the spacing and makes the 
+  expand/collapse indicator responsive (i.e. you can click on the indicator and it will 
+  actually expand/collapse).
+- Many Bothans died to bring us this information.
+-->
+
 <details id='expand-bulk-rna-seq-gene-expression'>
 <summary><a href='#user-content-expand-bulk-rna-seq-gene-expression'>Bulk RNA-Seq gene expression</a></summary>
 
@@ -37,10 +50,7 @@ We help researchers identify and interpret patterns in RNA, DNA, and proteins by
 </details>
 
 <details id='expand-single-cellsingle-nuclei-analysis'>
-<summary>
-
-### Single-cell/single-nuclei analysis
-</summary>
+<summary><a href='#user-content-expand-single-cellsingle-nuclei-analysis'>Single-cell/single-nuclei analysis</a></summary>
  
 - scRNA-Seq/ snRNA-Seq gene expression: 3', 5', Flex
 - V(D)J immune profiling
@@ -57,10 +67,7 @@ We help researchers identify and interpret patterns in RNA, DNA, and proteins by
 </details>
 
 <details id='expand-spatial-sequencing-analysis'>
-<summary>
-   
-### Spatial sequencing analysis
-</summary>
+<summary><a href='#user-content-expand-spatial-sequencing-analysis'>Spatial sequencing analysis</a></summary>
  
 - Visium / Visium HD
 - Xenium in-situ/ subcellular
@@ -72,10 +79,7 @@ We help researchers identify and interpret patterns in RNA, DNA, and proteins by
 </details>
 
 <details id='expand-epigenomic-analysis'>
-<summary>
-   
-### Epigenomic analysis
-</summary>
+<summary><a href='#user-content-expand-epigenomic-analysis'>Epigenomic analysis</a></summary>
  
 - DNA Methylation from WGBS/oxBS/EM-Seq, ERRBS/oxERRBS, long-reads
 - Chromatin accessibility from bulk ATAC-Seq
@@ -86,15 +90,11 @@ We help researchers identify and interpret patterns in RNA, DNA, and proteins by
 - Tools & Resources:
 
   - [nf-core/methylseq](https://nf-co.re/methylseq) | [nf-core/atacseq](https://nf-co.re/atacseq) | [nf-core/chipseq](https://nf-co.re/chipseq) | [nf-core/cutandrun](https://nf-co.re/cutandrun) | [annotatr](https://bioconductor.org/packages/devel/bioc/vignettes/annotatr/inst/doc/annotatr-vignette.html) | [methylSig](https://www.bioconductor.org/packages/release/bioc/html/methylSig.html)
-
 <hr/>
 </details>
 
 <details id='expand-variant-identification--assembly'>
-<summary>
-
-### Variant identification / assembly
-</summary>
+<summary><a href='#user-content-expand-variant-identification-assembly'>Variant identification / assembly</a></summary>
  
 - Variant identification / structural variation from WGS, exome, panel, long-reads
 - Germline & somatic variants
@@ -109,10 +109,7 @@ We help researchers identify and interpret patterns in RNA, DNA, and proteins by
 </details>
 
 <details id='expand-microbiome-analysis'>
-<summary>
-
-### Microbiome analysis
-</summary>
+<summary><a href='#user-content-expand-microbiome-analysis'>Microbiome analysis</a></summary>
  
 - 16S amplicon
 - Metagenomics / Metatranscriptomics
@@ -125,10 +122,7 @@ We help researchers identify and interpret patterns in RNA, DNA, and proteins by
 </details>
 
 <details id='expand-proteome-expression-analysis'>
-<summary>
-
-### Proteome expression analysis
-</summary>
+<summary><a href='#user-content-expand-proteome-expression-analysis'>Proteome expression analysis</a></summary>
  
 - Liquid Chromatography-Mass Spectrometry (label free, isobaric labeling/TMT, DIA)
 - Antibody/Aptamer (ELISA, OLink, Somalogic)
