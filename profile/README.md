@@ -20,8 +20,7 @@ We help researchers identify and interpret patterns in RNA, DNA, and proteins by
 
 ## Bioinformatics analyses we support
 
-
-<details id='expand-bulk-rna-seq-analysis'>
+<details id='expand-bulk-rna-seq-gene-expression'>
 <summary>
 
 ### Bulk RNA-Seq gene expression
@@ -39,7 +38,8 @@ We help researchers identify and interpret patterns in RNA, DNA, and proteins by
    - [nf-core/rnaseq analysis pipeline](https://nf-co.re/rnaseq) | [DESeq2](https://bioconductor.org/packages/devel/bioc/vignettes/DESeq2/inst/doc/DESeq2.html) | [iPathwayGuide](https://advaitabio.com/bioinformatics/ipathwayguide/) | [WebGestalt](https://www.webgestalt.org/) | [GSEA](https://www.gsea-msigdb.org/gsea/index.jsp)
 <hr/>
 </details>
-<details id='expand-sc-analysis'>
+
+<details id='expand-single-cellsingle-nuclei-analysis'>
 <summary>
 
 ### Single-cell/single-nuclei analysis
@@ -59,7 +59,7 @@ We help researchers identify and interpret patterns in RNA, DNA, and proteins by
 <hr/>
 </details>
 
-<details id='expand-spatial-analysis>
+<details id='expand-spatial-sequencing-analysis'>
 <summary>
    
 ### Spatial sequencing analysis
@@ -93,7 +93,7 @@ We help researchers identify and interpret patterns in RNA, DNA, and proteins by
 <hr/>
 </details>
 
-<details id='expand-variant-identification-assembly'>
+<details id='expand-variant-identification--assembly'>
 <summary>
 
 ### Variant identification / assembly
@@ -129,7 +129,7 @@ We help researchers identify and interpret patterns in RNA, DNA, and proteins by
 
 <details id='expand-proteome-expression-analysis'>
 <summary>
-   
+
 ### Proteome expression analysis
 </summary>
  
