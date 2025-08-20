@@ -14,7 +14,9 @@ We help researchers identify and interpret patterns in RNA, DNA, and proteins by
 
 ## We would love to talk with you
 
-See [our website](https://michmed.org/GqGzZ) for more information about the core staff or reach out directly at bioinformatics@umich.edu to [set up a free consulation](https://docs.google.com/forms/d/e/1FAIpQLSepk7VqOl3xmBgkZybrl71VuQmKk3YmkgmpaBO4dD2hOtIh4w/viewform).
+- See [our website](https://michmed.org/GqGzZ) for more information about the core staff.
+- Set up a [free consulation](https://docs.google.com/forms/d/e/1FAIpQLSepk7VqOl3xmBgkZybrl71VuQmKk3YmkgmpaBO4dD2hOtIh4w/viewform) to discuss your idea/project.
+- Send us an email at bioinformatics@umich.edu .
 
 ## Bioinformatics analyses we support
 
@@ -70,23 +72,6 @@ See [our website](https://michmed.org/GqGzZ) for more information about the core
 <br/>
 
 <details>
-<summary><strong>Variant identification / assembly</strong></summary>
- 
-- Variant identification / structural variation from WGS, exome, panel, long-reads
-- Germline & somatic variants
-- Copy Number Analysis from WGS
-- Variant impact annotation
-- Genome assembly from short reads, long-reads, hybrid. 
-- Transcription assembly
-- Tools & Resources:
-
-  - [nf-core/sarek](https://nf-co.re/sarek) | [VEP](https://www.ensembl.org/info/docs/tools/vep/index.html) | [SnpEff](https://pcingola.github.io/SnpEff) | [SPAdes](https://github.com/ablab/spades) | [Velvet](https://github.com/dzerbino/velvet) | [Flye](https://github.com/mikolmogorov/Flye) 
-<hr/>
-</details>
-
-<br/>
-
-<details>
 <summary><strong>Epigenomic analysis</strong></summary>
  
 - DNA Methylation from WGBS/oxBS/EM-Seq, ERRBS/oxERRBS, long-reads
@@ -103,6 +88,24 @@ See [our website](https://michmed.org/GqGzZ) for more information about the core
 </details>
 
 <br/>
+
+<details>
+<summary><strong>Variant identification / assembly</strong></summary>
+ 
+- Variant identification / structural variation from WGS, exome, panel, long-reads
+- Germline & somatic variants
+- Copy Number Analysis from WGS
+- Variant impact annotation
+- Genome assembly from short reads, long-reads, hybrid. 
+- Transcription assembly
+- Tools & Resources:
+
+  - [nf-core/sarek](https://nf-co.re/sarek) | [VEP](https://www.ensembl.org/info/docs/tools/vep/index.html) | [SnpEff](https://pcingola.github.io/SnpEff) | [SPAdes](https://github.com/ablab/spades) | [Velvet](https://github.com/dzerbino/velvet) | [Flye](https://github.com/mikolmogorov/Flye) 
+<hr/>
+</details>
+
+<br/>
+
 
 <details>
 <summary><strong>Microbiome analysis</strong></summary>
