@@ -21,7 +21,7 @@ We help researchers identify and interpret patterns in RNA, DNA, and proteins by
 ## Bioinformatics analyses we support
 
 
-<details id='details-bulk-rna-seq-gene-expression'>
+<details id='expand-bulk-rna-seq-analysis'>
 <summary>
 
 ### Bulk RNA-Seq gene expression
@@ -43,8 +43,12 @@ We help researchers identify and interpret patterns in RNA, DNA, and proteins by
 
 <br/>
 
-<details>
-<summary><strong>Single-cell/single-nuclei analysis</strong></summary>
+<details id='expand-sc-analysis'>
+<summary>
+
+### Single-cell/single-nuclei analysis
+
+</summary>
  
 - scRNA-Seq/ snRNA-Seq gene expression: 3', 5', Flex
 - V(D)J immune profiling
@@ -62,8 +66,12 @@ We help researchers identify and interpret patterns in RNA, DNA, and proteins by
 
 <br/>
 
-<details>
-<summary><strong>Spatial sequencing analysis</strong></summary>
+<details id='expand-spatial-analysis>
+<summary>
+   
+### Spatial sequencing analysis
+
+</summary>
  
 - Visium / Visium HD
 - Xenium in-situ/ subcellular
@@ -76,8 +84,12 @@ We help researchers identify and interpret patterns in RNA, DNA, and proteins by
 
 <br/>
 
-<details>
-<summary><strong>Epigenomic analysis</strong></summary>
+<details id='expand-epigenomic-analysis'>
+<summary>
+   
+### Epigenomic analysis
+
+</summary>
  
 - DNA Methylation from WGBS/oxBS/EM-Seq, ERRBS/oxERRBS, long-reads
 - Chromatin accessibility from bulk ATAC-Seq
@@ -94,8 +106,12 @@ We help researchers identify and interpret patterns in RNA, DNA, and proteins by
 
 <br/>
 
-<details>
-<summary><strong>Variant identification / assembly</strong></summary>
+<details id='expand-variant-identification-assembly'>
+<summary>
+
+### Variant identification / assembly
+
+</summary>
  
 - Variant identification / structural variation from WGS, exome, panel, long-reads
 - Germline & somatic variants
@@ -112,8 +128,12 @@ We help researchers identify and interpret patterns in RNA, DNA, and proteins by
 <br/>
 
 
-<details>
-<summary><strong>Microbiome analysis</strong></summary>
+<details id='expand-microbiome-analysis'>
+<summary>
+
+### Microbiome analysis
+
+</summary>
  
 - 16S amplicon
 - Metagenomics / Metatranscriptomics
@@ -127,8 +147,12 @@ We help researchers identify and interpret patterns in RNA, DNA, and proteins by
 
 <br/>
 
-<details>
-<summary><strong>Proteome expression</strong></summary>
+<details id='expand-proteome-expression-analysis'>
+<summary>
+   
+### Proteome expression analysis
+
+</summary>
  
 - Liquid Chromatography-Mass Spectrometry
 - Antibody/Aptamer (ELISA, OLink, Somalogic)
