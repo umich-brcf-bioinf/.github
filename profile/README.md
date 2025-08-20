@@ -8,7 +8,9 @@ We help researchers identify and interpret patterns in RNA, DNA, and proteins by
 - **Analyzing next-generation sequencing data**
 - **Assisting in visualizing and interpreting results**
 - **Letters of support, grant proposal development, or manuscript revision**
-- **Hosting virtual, hands-on bioinformatics workshops** (see [current workshop schedule and descriptions](https://michmed.org/XYQwq))
+- **1-1 project analysis support and training**
+- **Virtual, hands-on bioinformatics workshops** (see [current workshop schedule and descriptions](https://michmed.org/XYQwq))
+- **Recharge and percent-effort support models**
 
 ## We would love to talk with you
 
@@ -21,7 +23,8 @@ See [our website](https://michmed.org/GqGzZ) for more information about the core
  
 - Poly(A) selection, total RNA, miRNA, Ribo-Seq, long-read gene expression
 - Differential gene expression
-- Differential isoform / isoform switching 
+- Differential isoform expression, isoform switching
+- Allele specific expression 
 - Functional enrichment analysis (GO terms, KEGG pathways)
 - [Sample RNA-Seq analysis report](https://umich-brcf-bioinf.github.io/Watermelon/doc/SampleReport.html)
 - Tools & Resources:
@@ -36,15 +39,17 @@ See [our website](https://michmed.org/GqGzZ) for more information about the core
 <details>
 <summary><strong>Single-cell/single-nuclei analysis</strong></summary>
  
-- 3' or 5' scRNA-Seq gene expression
+- scRNA-Seq/ snRNA-Seq gene expression: 3', 5', Flex
 - V(D)J immune profiling
-- scATAC-Seq
-- Trajectory analysis
+- Cell surface protein profiling, CITE-seq (a.k.a. TotalSeq, ADT)
+- snATAC-Seq
+- snRNA-Seq + snATAC-Seq
+- Trajectory analysis, Velocity analysis
 - Single-cell analysis of long-reads
 - Tools & Resources:
   
   - [Workshop: Intro to Single-Cell Analysis](https://medresearch.umich.edu/office-research/about-office-research/biomedical-research-core-facilities/bioinformatics-core/bioinformatics-workshops-training#intro-to-single-cell-analysis)
-  - [Cell Ranger](https://www.10xgenomics.com/support/software/cell-ranger/latest)] | [Seurat](https://satijalab.org/seurat/) | [scCatch](https://github.com/ZJUFanLab/scCATCH)
+  - [Cell Ranger](https://www.10xgenomics.com/support/software/cell-ranger/latest)] | [Seurat](https://satijalab.org/seurat/) | [scCatch](https://github.com/ZJUFanLab/scCATCH) | [Monocle](https://cole-trapnell-lab.github.io/monocle3/docs/trajectories/) | [veloctyo](https://velocyto.org/)
 <hr/>
 </details>
 
@@ -68,8 +73,11 @@ See [our website](https://michmed.org/GqGzZ) for more information about the core
 <summary><strong>Variant identification / assembly</strong></summary>
  
 - Variant identification / structural variation from WGS, exome, panel, long-reads
+- Germline & somatic variants
 - Copy Number Analysis from WGS
-- Genome assembly from short reads, long-reads, hybrid
+- Variant impact annotation
+- Genome assembly from short reads, long-reads, hybrid. 
+- Transcription assembly
 - Tools & Resources:
 
   - [nf-core/sarek](https://nf-co.re/sarek) | [VEP](https://www.ensembl.org/info/docs/tools/vep/index.html) | [SnpEff](https://pcingola.github.io/SnpEff) | [SPAdes](https://github.com/ablab/spades) | [Velvet](https://github.com/dzerbino/velvet) | [Flye](https://github.com/mikolmogorov/Flye) 
@@ -100,7 +108,8 @@ See [our website](https://michmed.org/GqGzZ) for more information about the core
 <summary><strong>Microbiome analysis</strong></summary>
  
 - 16S amplicon
-- metagenomics / metatranscriptomics
+- Metagenomics / Metatranscriptomics
+- Transposon sequencing (Tn-seq)
 - Tools & Resources:
 
   - [mothur](https://mothur.org/) | [SqueezeMeta](https://github.com/jtamames/SqueezeMeta)
