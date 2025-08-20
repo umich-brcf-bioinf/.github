@@ -133,7 +133,10 @@ We help researchers identify and interpret patterns in RNA, DNA, and proteins by
 ### Proteome expression analysis
 </summary>
  
-- Liquid Chromatography-Mass Spectrometry
+- Liquid Chromatography-Mass Spectrometry (label free, isobaric labeling/TMT, DIA)
 - Antibody/Aptamer (ELISA, OLink, Somalogic)
+- Tools & Resources:
+
+   - [Perseus](https://www.maxquant.org/perseus/) | [MSstats](https://www.bioconductor.org/packages/release/bioc/html/MSstats.html) | [STRING](https://string-db.org/) | | [iPathwayGuide](https://advaitabio.com/bioinformatics/ipathwayguide/) | [GSEA](https://www.gsea-msigdb.org/gsea/index.jsp) | [Olink Insight](https://olink.com/software/olink-insight) | [Olink Analyze](https://github.com/Olink-Proteomics/OlinkRPackage)
 <hr/>
 </details>
